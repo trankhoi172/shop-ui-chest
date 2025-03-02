@@ -1,2 +1,2 @@
 import "./function/data.js";
-import "./shopui/data.js";
+import "./shopdata/data.js";
