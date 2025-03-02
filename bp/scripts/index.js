@@ -1,2 +1,3 @@
-import "./function/data.js";
-import "./shopdata/data.js";
+import "./function/database.js";
+import "./function/playerData.js";
+import "./shopdata/index.js";
