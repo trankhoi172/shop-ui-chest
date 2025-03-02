@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "[BP] Shop UI V2",
+    "description": "Made by Khoiidol",
+    "min_engine_version": [1, 21, 0],
+    "uuid": "2abf8f3a-675c-4282-adb6-1d67c8129274",
+    "version": [5, 1, 0]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "6a77c1fa-5ce2-4aaa-a2a1-48d194e406cf",
+      "version": [1, 0, 0]
+    },
+    {
+      "description": "",
+      "uuid": "a9ecf71e-4ecc-4f5f-b46e-49c3b7da40f2",
+      "version": "1.1.0-beta",
+      "type": "script",
+      "language": "javascript",
+      "entry": "scripts/index.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.18.0-beta"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "1.4.0-beta"
+    }
+  ]
+}
