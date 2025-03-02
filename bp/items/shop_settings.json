@@ -1,0 +1,15 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "khoi:shop_settings",
+			"menu_category": {
+				"category": "items"
+			}
+		},
+		"components": {
+			"minecraft:icon": "khoi_shop_settings",
+			"minecraft:max_stack_size": 1
+		}
+	}
+}
