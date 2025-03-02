@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "[RP] Shop UI V2",
+    "description": "Made by Khoiidol",
+    "uuid": "0a8110d2-3caf-4909-8a41-a133ab1ca0b2",
+    "version": [5, 1, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "description": "Made by Khoiidol",
+      "type": "resources",
+      "uuid": "a7eb58fd-d815-49d5-9fae-2c987f9ca8b9",
+      "version": [1, 0, 0]
+    }
+  ]
+}
